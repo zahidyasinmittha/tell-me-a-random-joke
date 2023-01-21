@@ -35,6 +35,7 @@ footer{
 #copy1{
     text-align: center;
     color: white;
+    background-color: black;
 }
 nav{
     z-index: 2 !important;
